@@ -41,11 +41,11 @@
 <br />
 
 ---
+<details>
 
   <summary>:zap: GitHub Stats</summary>
 
   ![codevski's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevski&show_icons=true&theme=radical)
-
 
 </details>
 
