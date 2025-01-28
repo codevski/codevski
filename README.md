@@ -5,10 +5,11 @@
 
 ## I'm a Husband, Developer, and Gamer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other NFT creators
+- 🌱 I'm currently developing syncd.gg - an automated game tracking platform
+- 👯 I'm looking to collaborate on game development and tracking tools
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love motorcycles and working out
+- 💼 Open to exciting developer roles and opportunities
+- ⚡ Fun fact: I start every coding session with a workout and an espresso
 
 ### Connect with me:
 
