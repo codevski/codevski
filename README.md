@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other NFT creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love motorcycles and working out
 
 ### Connect with me:
 
 [<img align="left" alt="codev.ski" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codev.ski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codev.ski | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codev.ski | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codev.ski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -53,7 +53,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#51](https://github.com/kevinfaveri/solana-candy-factory/issues/51) in [kevinfaveri/solana-candy-factory](https://github.com/kevinfaveri/solana-candy-factory)
 2. 🗣 Commented on [#159](https://github.com/linuxserver/docker-swag/issues/159) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
@@ -72,7 +72,7 @@
 </details>
 
 [website]: https://codev.ski
-[twitter]: https://twitter.com/codevski
+[twitter]: https://x.com/codevski
 [youtube]: https://www.youtube.com/channel/UClzTxZYny_Nokwa9YVQgbOw
 [linkedin]: https://linkedin.com/in/codevski
 [blank]: #
