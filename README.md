@@ -23,7 +23,7 @@ JavaScript • TypeScript • React • Next.js • Node.js • Go • GraphQL �
 
 Drop me a line if you're working on gaming tools, want to collaborate on open source, or just want to chat about code and coffee.
 
-[Website](https://codev.ski) • [Twitter](https://x.com/codevski) • [LinkedIn](https://linkedin.com/in/codevski) • [Steam](https://steampowered.com)
+[Website](https://codev.ski) • [Twitter](https://x.com/codevski) • [LinkedIn](https://linkedin.com/in/codevski) • [Steam]([https://steampowered.com](https://steamcommunity.com/id/J35TR))
 
 ---
 
