@@ -2,7 +2,7 @@
 
 **Building tools that gamers actually want to use.**
 
-Currently crafting [keepsyncd.com](https://keepsyncd.com) — because manually tracking your gaming progress is so 2010. Also building [getgometa.com](https://getgometa.com), bringing beautiful library management to Steam Deck.
+Currently crafting [keepsyncd.com](https://keepsyncd.com) — because manually tracking your gaming progress is so 2010. Also building [getgameta.com](https://getgameta.com), bringing beautiful library management to Steam Deck.
 
 ## What drives me
 
