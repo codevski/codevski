@@ -17,7 +17,7 @@ I believe the best developer tools come from developers who are also passionate 
 
 ## My toolkit
 
-JavaScript • TypeScript • React • Next.js • Node.js • Go • Python • GraphQL • *SQL • RPC
+JavaScript • TypeScript • React • Next.js • Node.js • Go • Python • GraphQL • *SQL • *RPC
 
 ## Let's connect
 
