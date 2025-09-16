@@ -1,4 +1,4 @@
-# Hi, I'm Sash 👋
+# 👋
 
 **Building tools that gamers actually want to use.**
 
