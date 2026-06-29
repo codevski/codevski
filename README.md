@@ -1,8 +1,8 @@
 # 👋
 
-**Building tools for gamers, developers, and the occasional migraine sufferer.**
+**Bad at changelogs. Built a product about it...**
 
-Currently crafting **relyf**, a mobile app helping migraine sufferers track triggers and find relief faster.
+Currently crafting **Releasd**, a release notes and changelog platform that turns git history into beautiful, embeddable changelogs.
 
 ## What drives me
 
